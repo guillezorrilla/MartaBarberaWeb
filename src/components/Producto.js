@@ -30,7 +30,7 @@ class Producto extends Component {
           <Container className='producto_container'>
             <Row className='producto_row'>
               <Col lg={6} sm={12}>
-                <img className='image-producto' src={Producto13} alt='Design' />
+                <img className='image-producto' src={Producto5} alt='Design' />
               </Col>
               <Col lg={6} sm={12}>
                 <img className='image-producto' src={Producto14} alt='Design' />
@@ -46,7 +46,7 @@ class Producto extends Component {
             </Row>
             <Row>
               <Col lg={6} sm={12}>
-                <img className='image-producto' src={Producto5} alt='Design' />
+                <img className='image-producto' src={Producto13} alt='Design' />
               </Col>
               <Col lg={6} sm={12}>
                 <img className='image-producto' src={Producto3} alt='Design' />

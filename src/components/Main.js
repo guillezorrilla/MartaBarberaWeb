@@ -1,5 +1,5 @@
 import React from 'react';
-import design from '../assets/images/minimalista.jpg';
+import design from '../assets/images/Producto/_MG_8323 prod.JPG';
 import moda from '../assets/images/_MG_9514 web 1x1.jpg';
 import retoque from '../assets/images/retoque.jpg';
 import interior from '../assets/images/interior.jpg';
